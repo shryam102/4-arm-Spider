@@ -9,3 +9,10 @@ This project involves building a quadruped robot shaped like a spider, complete 
   * Move Forward/Backward, Left/Right
   * Perform Shaking hand gesture
   * Execute a fun dance step
+## Components Used
+* Arduino Nano
+* 8.4V LiPo Battery
+* 12 Servo Motors (3 for each arm)
+* Robot Frame (can be designed self-using software like Solidworks or AutoCAD
+* Bluetooth Module
+* Mobile Phone
