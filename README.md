@@ -21,3 +21,7 @@ This project involves building a quadruped robot shaped like a spider, complete 
 * Robot Frame (can be designed self-using software like Solidworks or AutoCAD
 * Bluetooth Module
 * Mobile Phone
+
+## Videos 
+
+![Spider](https://github.com/shryam102/4-arm-Spider/assets/78613519/1ac942ac-838d-4196-82ed-d8674d86e3b0)
