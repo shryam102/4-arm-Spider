@@ -1,7 +1,6 @@
 # 4-Arm-Spider-Robot
 This project involves building a quadruped robot shaped like a spider, complete with 12 servo motors (3 for each arm), and controlled by an Arduino Nano. The robot offers a fun and educational experience, providing users with the ability to wirelessly control it using a mobile phone app.
-
-![Spider](https://github.com/shryam102/4-arm-Spider/assets/78613519/5683d869-512a-4f45-96b1-0d7942a116f9)
+<img align = "center" width = "800" height = "450" src = "https://github.com/shryam102/4-arm-Spider/assets/78613519/5683d869-512a-4f45-96b1-0d7942a116f9">
 
 ## Features
 * **Quadraped Spider Design:** The robot mimics the appearance and movement of a spider with its four arms, each controlled by three servo motors.
