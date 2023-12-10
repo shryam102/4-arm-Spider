@@ -4,6 +4,8 @@ This project involves building a quadruped robot shaped like a spider, complete 
 
 <img align ="right" src = "https://github.com/shryam102/4-arm-Spider/assets/78613519/5683d869-512a-4f45-96b1-0d7942a116f9">
 
+
+
 ## Features
 * **Quadraped Spider Design:** The robot mimics the appearance and movement of a spider with its four arms, each controlled by three servo motors.
 * **Arduino Nano Control:** The robot's movements are powered by an Arduino Nano, making it easy to program and customize.
